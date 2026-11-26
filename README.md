@@ -21,3 +21,4 @@ number are always reachable. It never wipes data and never reads the phone.
 ## Free the test phone if anything goes wrong (debug build only)
 adb shell dpm remove-active-admin com.example.lockpay/.AdminReceiver
 Or issue a RELEASE command from the server.
+# lockpay-android
